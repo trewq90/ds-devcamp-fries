@@ -1,0 +1,12 @@
+{
+    "name": "devcamp-fries",
+    "version": "1.0.0",
+    "description": "Website made with HTML and CSS",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Pulkit Aggarwal"
+  }
